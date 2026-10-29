@@ -7,7 +7,7 @@ const pessoa = {
     idade: 35,
     solteiro: false,
     hobbies: [
-        "jogar bola", "jogar video game", "ler livro"
+        "jogar bola", " jogar video game", " ler livro"
     ]
 }
 
